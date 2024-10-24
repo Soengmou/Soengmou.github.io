@@ -1,9 +1,10 @@
 ---
-layout: post
-title: You're up and running!
+layout: Hello World!
+title: 2024/10/23 记!
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+马上评职称了！
+儿子明天回老家！
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
